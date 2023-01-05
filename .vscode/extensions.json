@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "ms-vscode.live-server",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "xabikos.javascriptsnippets",
+        "formulahendry.code-runner",
+        "aaravb.chrome-extension-developer-tools",
+        "jock.svg",
+        "eamodio.gitlens",
+        "equinusocio.vsc-material-theme-icons",
+        "monokai.theme-monokai-pro-vscode",
+        "dcasella.monokai-plusplus",
+        "glenn2223.live-sass",
+        "documatic.documatic",
+        "blackboxapp.blackbox",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}
